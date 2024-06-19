@@ -8,12 +8,12 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 
 
    1. - 🎭 `Star` 🌟 this repository.
-- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](youtube.com/@tohidkhan_6332)
+- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtube.com/@tohidkhan_6332?si=wS3wGa4e3xZBS9IK)
 2.  - [FORK](https://github.com/tohidkhan6332/TECH-GOD-BUG-BOT/fork) this repository.
 3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 4.   - If you don't have an account of heroku [create an account now](https://signup.heroku.com/?utm_source=google&utm_medium=paid_search&utm_campaign=india_heraw&utm_content=general-branded-search-rsa&utm_term=heroku&gad_source=1&gclid=CjwKCAjwg8qzBhAoEiwAWagLrCB1qhEv4Ky_E2Cuq5B0IpFvo719eVtrPnfRrmqiZf0YowEy6susTxoCBAIQAvD_BwE)
-5.  - Now watch this tutorial [Video](youtube.com/@tohidkhan_6332) for `Deploy Bot`
+5.  - Now watch this tutorial [Video]([youtube.com/@tohidkhan_6332](https://youtube.com/@tohidkhan_6332?si=wS3wGa4e3xZBS9IK)) for `Deploy Bot`
 
 
 
@@ -37,7 +37,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 <a href="https://www.instagram.com/tohidkhan6332/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+TOHID-KHAN" alt="Typing SVG" /></a>
   
 # YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@tohidkhan_6332)
+   [`More hacks & tutorials`](https://youtube.com/@tohidkhan_6332?si=wS3wGa4e3xZBS9IK)
 
 # contact to owner 👇    
 <a aria-label="Join our chats" href="https://wa.me/917849917350?text=Hi!! `Tohid khan` Sir, I need Your Help" target="_blank">
