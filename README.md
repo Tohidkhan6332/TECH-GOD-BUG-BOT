@@ -1,3 +1,10 @@
+<h1 align="center">ꪶ𝐓𝐎𝐇𝐈𝐃𝐊𝐇𝐀𝐍 BUG BOT-𝗩1ꫂ<br></h1>
+<p align="center">
+<img src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg" />
+</p>
+
+
+
 ### WhatsApp Bug Bot By `TOHID KHAN`
 Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
 ### Bot Features
