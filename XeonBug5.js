@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by Tohid-khan
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @tohidkhan_6332
+//Instagram: tohidkhan6332
+//Telegram: t.me/@tohid_mewati
+//GitHub: @tohidkhan6332
+//WhatsApp: +917849917350
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@tohidkhan_6332
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -205,7 +205,7 @@ const subscribe_TechGod = {
 },
 message: {
 "listResponseMessage": {
-title: `TechGod's ur father`
+title: `mrtohid's ur father`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -222,7 +222,7 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Tech-God▒▒▒》50%",
+"《 ███████▒▒mr-tohid▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
@@ -650,9 +650,9 @@ senddocu(buffer)
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: 'Broadcast By Tech God',
+                                title: 'Broadcast By Tohid khan',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                                thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -960,7 +960,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -974,7 +974,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the Tech God wa.me/917466008456 😉`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the Mr Tohid wa.me/917849917350 😉`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -982,7 +982,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1001,8 +1001,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `youtube Tech God`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            body: `github tohidkhan6332`,
+                            thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1016,14 +1016,14 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'repo':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `repo https://github.com/techgod143/TECH-GOD-BUG-BOT
-		    youtube www.youtube.com/@techgod143`,
+                    text: `repo https://github.com/tohidkhan6332/TECH-GOD-BUG-BOT
+		    youtube www.youtube.com/@tohidkhan_6332`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube www.youtube.com/@techgod143`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            body: `SCRIPT OF ${botname} is on YouTube www.youtube.com/@tohidkhan_6332`,
+                            thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2301,7 +2301,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "surface": "CATALOG",
 "message": `${botname}`,
 "orderTitle": " TROLLY BUG ", 
-"sellerJid": "917466008456@s.whatsapp.net",
+"sellerJid": "917849917350@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
 }), { userJid: from, quoted:m})
@@ -2437,7 +2437,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "surface": "CATALOG",
 "message": `${botname}`,
 "orderTitle": " TROLLY BUG ", 
-"sellerJid": "917466008456@s.whatsapp.net",
+"sellerJid": "917849917350@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
 }), { userJid: from, quoted:m})
@@ -2471,14 +2471,14 @@ break
             case 'menu':
             case 'help':
             case 'alive':
-                let xeonmenuoh = `╭══ *❍ 𝗧𝗘𝗖𝗛_𝗚𝗢𝗗-BUG_BOT ❍*
-┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ ○■□● ɢᴏᴅ
+                let xeonmenuoh = `╭══ *❍ 𝐓𝐎𝐇𝐈𝐃-𝐊𝐇𝐀𝐍-BUG_BOT ❍*
+┃❁ *ᴏᴡɴᴇʀ:* 𝐓𝐎𝐇𝐈𝐃 ○■□● 𝐊𝐇𝐀𝐍
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
 ┃❁ *User:* ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄  My bro
-⚠️⚠️ ~Don't forget to subscribe~ 
-*Tech god* ~Youtube Channel~ ⚠️⚠️
-_Any help: yt link http://www.youtube.com/@techgod143_
+⚠️⚠️ ~Don't forget to join~ 
+*Tohid khan* ~Whatsapp group~ ⚠️⚠️
+_Any help: gp link https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
@@ -2563,7 +2563,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ᴍᴇɴᴜ*
 ┃ ❏ *ʜᴇʟᴘ*
 ┃ ❏ *ʟɪsᴛ*
-┃ ❏ *ʙᴜʏᴘʀᴇᴍɪᴜᴍ +917466008456*
+┃ ❏ *ʙᴜʏᴘʀᴇᴍɪᴜᴍ +917849917350*
 ┃ ❏ *ʀᴜɴᴛɪᴍᴇ*
 ┃ ❏ *sᴄʀɪᴘᴛ*
 ┃ ❏ *ᴅᴏɴᴀᴛᴇ*
@@ -2624,7 +2624,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                                thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2642,7 +2642,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+      thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
